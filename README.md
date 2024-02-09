@@ -1,5 +1,5 @@
 # Hello, I'm Nima Bokhang
-<a href="[https://linkedin.com](https://www.linkedin.com/in/nima-bokhang/)">></a>
+Connect with me on my Linkedin: "https://www.linkedin.com/in/nima-bokhang/"
 
 [Brief Introduction - Remove this afterwards]
 
